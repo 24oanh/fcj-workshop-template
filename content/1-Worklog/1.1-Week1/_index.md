@@ -1,4 +1,3 @@
-
 ---
 title: "Week 1 Worklog"
 date: 2024-01-01
